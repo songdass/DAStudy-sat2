@@ -1,4 +1,4 @@
-# DAStudy-sat
+# DAStudy-sat2
 - 장소: 강남역 (<a href='https://naver.me/5pEsszGN'>강남 ENI스터디룸</a>)
 - 일시: 매주 토요일 오후 7시
 - 인원: 6명 (WOOJIN)
